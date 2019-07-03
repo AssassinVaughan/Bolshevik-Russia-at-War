@@ -1,0 +1,230 @@
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "bolshevikanthem"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "whitearmyblackbaron"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_war = yes
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "workersmars"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "internationale"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "bolshevikleaveshome"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "redcavalry"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "Yablochko"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "meadowlands"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "therefarbeyondtheriver"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "songaboutschors"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "bodlycomrades"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "kakhovka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "youngguard"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "Eaglet"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "bodlywegointobattle"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "tachanka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "wearetheblacksmiths"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "campaignintheurals"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "forwardredfleet"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "godsavethetsar"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communism
+		}		
+	}	
+}

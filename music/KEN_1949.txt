@@ -1,0 +1,61 @@
+﻿##### Division Templates #####
+
+division_template = {
+	name = "King's African Rifles"		
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+}
+
+division_template = {
+	name = "KAR Cavalry"		
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+	}
+}
+
+
+###### OOB ######
+units = {
+	division = {	
+		name = "1st 'Kenya' Rifle Battalion"
+		location = 5210
+		division_template = "King's African Rifles"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {	
+		name = "2nd 'Kenya' Rifle Battalion"
+		location = 11687
+		division_template = "King's African Rifles"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {	
+		name = "3rd 'Kenya' Rifle Battalion"
+		location = 1939
+		division_template = "King's African Rifles"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {	
+		name = "4th 'Uganda' Rifle Battalion"
+		location = 11145
+		division_template = "King's African Rifles"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {	
+		name = "1st 'Kenya' Cavalry Battalion"
+		location = 5160
+		division_template = "KAR Cavalry"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+}
